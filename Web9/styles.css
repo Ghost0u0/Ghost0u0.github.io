@@ -1,0 +1,10 @@
+/* styles.css */
+.shadow-text {
+  font-size: 48px;
+  color: black;
+  /* 多重陰影，依序為橘色、灰色、銀色 */
+  text-shadow:
+    2px 2px 3px orange,
+    4px 4px 5px gray,
+    6px 6px 7px silver;
+}
